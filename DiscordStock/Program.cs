@@ -32,7 +32,7 @@ namespace DiscordStock
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "ODExODE4NjI2MTM0NzA0MTM4.YC3vAw.FE1lnbEfG00SV8kemeJa3hvKG7Y";
+            string token = "";
 
             _client.Log += _client_Log;
             _client.MessageReceived += client_MessageReceived;

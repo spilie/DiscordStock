@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MdJl9PpIgqld6UfR4sbpYJ9S8ukj0E3295kw+KVIJA8y/8dgWcKjUb9rhJySFS3A4cZHJztAiKiWBjQ3Rf27fA==",
+  "dgSpecHash": "+ZF3fmm2dGOBNCeeUSzfdoas+iS0XojKOunJP1VJMmt8ibTPmzGjFK49XxG7gTtF3W74tUS/2jnu6y3K/HcSIg==",
   "success": true,
-  "projectFilePath": "D:\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
+  "projectFilePath": "D:\\GitHub\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccy93\\.nuget\\packages\\discord.net\\2.4.0\\discord.net.2.4.0.nupkg.sha512",
     "C:\\Users\\ccy93\\.nuget\\packages\\discord.net.commands\\2.4.0\\discord.net.commands.2.4.0.nupkg.sha512",

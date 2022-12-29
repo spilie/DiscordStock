@@ -1529,11 +1529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
+      "projectUniqueName": "D:\\GitHub\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
       "projectName": "DiscordStock",
-      "projectPath": "D:\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
+      "projectPath": "D:\\GitHub\\DiscordStock\\DiscordStock\\DiscordStock.csproj",
       "packagesPath": "C:\\Users\\ccy93\\.nuget\\packages\\",
-      "outputPath": "D:\\DiscordStock\\DiscordStock\\obj\\",
+      "outputPath": "D:\\GitHub\\DiscordStock\\DiscordStock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1602,7 +1602,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
